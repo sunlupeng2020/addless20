@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_Addless20", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addless20useClasslibrary", "Addless20useClasslibrary\Addless20useClasslibrary.csproj", "{C39F8E02-0179-42F5-95A6-77BB9083BCB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestReflect", "TestReflect\TestReflect.csproj", "{6C1023FD-B8C5-47A2-AE75-F31009560F51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +181,16 @@ Global
 		{C39F8E02-0179-42F5-95A6-77BB9083BCB9}.Release|Mixed Platforms.Build.0 = Release|x86
 		{C39F8E02-0179-42F5-95A6-77BB9083BCB9}.Release|x86.ActiveCfg = Release|x86
 		{C39F8E02-0179-42F5-95A6-77BB9083BCB9}.Release|x86.Build.0 = Release|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Debug|x86.ActiveCfg = Debug|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Debug|x86.Build.0 = Debug|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Release|Any CPU.ActiveCfg = Release|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Release|x86.ActiveCfg = Release|x86
+		{6C1023FD-B8C5-47A2-AE75-F31009560F51}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
