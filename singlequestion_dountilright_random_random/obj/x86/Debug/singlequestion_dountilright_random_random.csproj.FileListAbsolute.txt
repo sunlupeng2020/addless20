@@ -1,0 +1,4 @@
+G:\csharp\addless20\singlequestion_dountilright_random_random\bin\Debug\singlequestion_dountilright_random_random.exe
+G:\csharp\addless20\singlequestion_dountilright_random_random\bin\Debug\singlequestion_dountilright_random_random.pdb
+G:\csharp\addless20\singlequestion_dountilright_random_random\obj\x86\Debug\singlequestion_dountilright_random_random.exe
+G:\csharp\addless20\singlequestion_dountilright_random_random\obj\x86\Debug\singlequestion_dountilright_random_random.pdb

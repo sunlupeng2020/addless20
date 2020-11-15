@@ -1,0 +1,2 @@
+G:\csharp\addless20\addless20\obj\x86\Debug\addless20.exe
+G:\csharp\addless20\addless20\obj\x86\Debug\addless20.pdb

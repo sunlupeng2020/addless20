@@ -1,0 +1,2 @@
+G:\csharp\addless20\WindowsForms_multiquestion\obj\x86\Debug\WindowsForms_multiquestion.exe
+G:\csharp\addless20\WindowsForms_multiquestion\obj\x86\Debug\WindowsForms_multiquestion.pdb

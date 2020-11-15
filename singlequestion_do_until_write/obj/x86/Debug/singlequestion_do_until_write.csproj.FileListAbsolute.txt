@@ -1,0 +1,4 @@
+G:\csharp\addless20\singlequestion_do_until_write\bin\Debug\singlequestion_do_until_write.exe
+G:\csharp\addless20\singlequestion_do_until_write\bin\Debug\singlequestion_do_until_write.pdb
+G:\csharp\addless20\singlequestion_do_until_write\obj\x86\Debug\singlequestion_do_until_write.exe
+G:\csharp\addless20\singlequestion_do_until_write\obj\x86\Debug\singlequestion_do_until_write.pdb

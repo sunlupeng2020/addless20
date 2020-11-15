@@ -1,0 +1,6 @@
+G:\csharp\addless20\e13multiquestion\bin\Debug\e13multiquestion.exe
+G:\csharp\addless20\e13multiquestion\bin\Debug\e13multiquestion.pdb
+G:\csharp\addless20\e13multiquestion\obj\x86\Debug\e13multiquestion.Properties.Resources.resources
+G:\csharp\addless20\e13multiquestion\obj\x86\Debug\e13multiquestion.csproj.GenerateResource.Cache
+G:\csharp\addless20\e13multiquestion\obj\x86\Debug\e13multiquestion.exe
+G:\csharp\addless20\e13multiquestion\obj\x86\Debug\e13multiquestion.pdb

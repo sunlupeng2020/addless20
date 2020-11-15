@@ -1,0 +1,7 @@
+G:\csharp\addless20\WindowsForms_multiquestion\bin\Debug\WindowsForms_multiquestion.exe
+G:\csharp\addless20\WindowsForms_multiquestion\bin\Debug\WindowsForms_multiquestion.pdb
+G:\csharp\addless20\WindowsForms_multiquestion\obj\x86\Debug\WindowsForms_multiquestion1.Form1.resources
+G:\csharp\addless20\WindowsForms_multiquestion\obj\x86\Debug\WindowsForms_multiquestion.Properties.Resources.resources
+G:\csharp\addless20\WindowsForms_multiquestion\obj\x86\Debug\e11WindowsForms_multiquestion2.csproj.GenerateResource.Cache
+G:\csharp\addless20\WindowsForms_multiquestion\obj\x86\Debug\WindowsForms_multiquestion.exe
+G:\csharp\addless20\WindowsForms_multiquestion\obj\x86\Debug\WindowsForms_multiquestion.pdb
