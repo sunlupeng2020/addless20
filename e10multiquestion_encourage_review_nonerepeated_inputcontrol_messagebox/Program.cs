@@ -12,6 +12,7 @@ using System.Windows.Forms;
 //100-优秀，80-良好,60-中等，60以下-不及格
 //最后显示本次题目的记录
 //防止题目重复
+//如果输入的答案不是整数，则提示重新输入
 //-----用对话框显示最终结果
 namespace singlequestion_dountilright_random
 {

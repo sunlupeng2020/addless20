@@ -2,3 +2,5 @@ G:\csharp\addless20\e06multiquestion_encourage\bin\Debug\e06multiquestion_encour
 G:\csharp\addless20\e06multiquestion_encourage\bin\Debug\e06multiquestion_encourage.pdb
 G:\csharp\addless20\e06multiquestion_encourage\obj\x86\Debug\e06multiquestion_encourage.exe
 G:\csharp\addless20\e06multiquestion_encourage\obj\x86\Debug\e06multiquestion_encourage.pdb
+E:\github\addless20\e06multiquestion_encourage\obj\x86\Debug\e06multiquestion_encourage.exe
+E:\github\addless20\e06multiquestion_encourage\obj\x86\Debug\e06multiquestion_encourage.pdb

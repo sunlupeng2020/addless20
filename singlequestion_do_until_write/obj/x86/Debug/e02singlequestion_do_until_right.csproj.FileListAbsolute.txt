@@ -3,3 +3,5 @@ G:\csharp\addless20\singlequestion_do_until_write\bin\Debug\singlequestion_do_un
 G:\csharp\addless20\singlequestion_do_until_write\obj\x86\Debug\singlequestion_do_until_write.exe
 G:\csharp\addless20\singlequestion_do_until_write\obj\x86\Debug\singlequestion_do_until_write.pdb
 G:\csharp\addless20\singlequestion_do_until_write\obj\x86\Debug\e02singlequestion_do_until_right.csprojResolveAssemblyReference.cache
+E:\github\addless20\singlequestion_do_until_write\obj\x86\Debug\singlequestion_do_until_write.exe
+E:\github\addless20\singlequestion_do_until_write\obj\x86\Debug\singlequestion_do_until_write.pdb

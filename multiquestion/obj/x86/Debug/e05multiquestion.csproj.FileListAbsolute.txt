@@ -2,3 +2,5 @@ G:\csharp\addless20\multiquestion\bin\Debug\multiquestion.exe
 G:\csharp\addless20\multiquestion\bin\Debug\multiquestion.pdb
 G:\csharp\addless20\multiquestion\obj\x86\Debug\multiquestion.exe
 G:\csharp\addless20\multiquestion\obj\x86\Debug\multiquestion.pdb
+E:\github\addless20\multiquestion\obj\x86\Debug\multiquestion.exe
+E:\github\addless20\multiquestion\obj\x86\Debug\multiquestion.pdb

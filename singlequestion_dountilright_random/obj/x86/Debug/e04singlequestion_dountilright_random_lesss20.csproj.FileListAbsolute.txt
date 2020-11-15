@@ -2,3 +2,5 @@ G:\csharp\addless20\singlequestion_dountilright_random\bin\Debug\singlequestion_
 G:\csharp\addless20\singlequestion_dountilright_random\bin\Debug\singlequestion_dountilright_random.pdb
 G:\csharp\addless20\singlequestion_dountilright_random\obj\x86\Debug\singlequestion_dountilright_random.exe
 G:\csharp\addless20\singlequestion_dountilright_random\obj\x86\Debug\singlequestion_dountilright_random.pdb
+E:\github\addless20\singlequestion_dountilright_random\obj\x86\Debug\singlequestion_dountilright_random.exe
+E:\github\addless20\singlequestion_dountilright_random\obj\x86\Debug\singlequestion_dountilright_random.pdb
